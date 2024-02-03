@@ -1,0 +1,48 @@
+List:-
+It is a sequence of data. Here data are maintained in order of entry. Here duplicate values are permitted. Here every unit of data stored can be of same data type or different data types. In List new unit of data can be appended, inserted, existing  data unit can be modified or deleted. It is mutable in nature.
+
+Syntax of List : []
+ myList=["Orange","Apple",235,True,34.67]
+
+functions of List in python:
+len() ---> length of list
+copy()---> copy one list to another
+sort()---> sort in ascending order a list
+reverse() ---> display the list in reverse order
+append() ---> add a new element at the end
+insert() ---> add a new element in a specific position
+count() ---> count an element, how many times it is present
+
+What is a Tuple?
+It is a sequence of data. Here data are maintained in order of entry. Here duplicate values are permitted. Here every unit of data stored can be of same data type or different data types. In Tuple new unit of data cannot be appended, inserted or existing  data unit cannot be modified or deleted. It is immutable in nature.
+A tuple cannot have single element.
+Syntax of Tuple : ()
+ myTuple=("Orange","Apple",235,True,34.67)
+
+What is the difference between List & Tuple ?
+
+Set:
+It is a sequence of data. Here data are not maintained in the order of entry. Here duplicate values are not permitted. Here every unit of data stored can be of same data type or different data types. In Set new unit of data  be appended, inserted or existing  data unit can be modified or deleted. It is mutable in nature.
+
+Syntax of Set : {}
+ mySet={"Orange","Apple",235,True,34.67}
+
+Q. What are the differences between Tuple & Set
+Q. What are the differences between List & Set
+
+Dictionary:-
+It is a sequence of data. Every data unit has an id which is known as key & data unit is known as value.
+Key provides the description of it's value.
+Here data are not maintained in order of entry. Keys cannot be duplicated, but values can be duplicated . Every unit of data stored can be of same data type or different data types. In Dictionary new unit of data can be appended, inserted, existing  data unit can be modified or deleted. It is mutable in nature.
+
+Syntax of Dictionary : {}
+ myDictionary={"id":23, "name":"Lousie","age":23,"salary":35000.00,"dept":"admin"}
+
+
+
+
+
+
+
+
+
